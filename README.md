@@ -19,7 +19,7 @@
 <br/>
 
 AD(打个小广告)
-<p align="center"><font color="red">推广合作: </font>推荐一个 IPLC 机场,节点全部解锁流媒体,经过三个月的使用和测试,晚高 <br> 峰 4K 非常稳定.如果你有需求同时愿意支持本站,也可以通过我的 <a href="https://ssrdog111.com/#/register?code=4ksQSpv2" target="_blank">推广链接</a> 购买. <br>我要白嫖？点击<a href="https://ikuuu.dev/auth/register?code=y3zu" target="_blank">这里</a>
+<p align="center"><font color="red">推广合作: </font>推荐一个 IPLC 机场,节点全部解锁流媒体,经过三个月的使用和测试,晚高 <br> 峰 4K 非常稳定.如果你有需求同时愿意支持本站,也可以通过我的 <a href="https://ssrdog111.com/#/register?code=4ksQSpv2" target="_blank">推广链接</a> 购买. <br>我要白嫖？点击<a href="https://ikuuu.eu/auth/register?code=y3zu" target="_blank">这里</a>
 <br><font color="red">特别鸣谢: </font>感谢所有 <a href="https://huangetech.gitee.io/pay/index2.html" target="_blank">打赏</a> 过的用户,你们的支持将会给本站提供更稳定的服务 </p>
 <br>
 
