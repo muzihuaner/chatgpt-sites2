@@ -1,3 +1,9 @@
+## 本项目已停更，新项目
+https://github.com/muzihuaner/chatgpt-sites
+最新网址
+https://chatgpt.quickso.cn/
+
+
 # ChatGPT 在线体验网站收集列表
 
 众所周知，国内访问并体验 ChatGPT 拥有一定的门槛，主要受限于网络无法访问、账号无法注册等条件。然而对于突破该约束条件的同学来说，可以很轻松的使用开源程序搭建基于 OPENAI API 的在线应用网站。
